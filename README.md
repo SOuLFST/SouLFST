@@ -1,4 +1,4 @@
-# 🟡 About SOuL
+# 🌍 About SOuL
 💻 Currently working on SOuL FST code on #Solana<br>💻 SOuL is Fluid Staking Token + SAO RWEcosystems Co-ownership programmed on and powered by Solana
 
 ![SOuL Logo](https://github.com/user-attachments/assets/bd8081b4-b67b-45e2-902f-c1bf33872645)
