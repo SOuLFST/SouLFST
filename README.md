@@ -1,5 +1,5 @@
 # 💫 About SOuL
-SOuL FST code on #Solana<br>SOuL is Fluid Staking Token + SAO RWEcosystems Co-ownership programmed on and powered by Solana
+Currently working on SOuL FST code on #Solana<br>SOuL is Fluid Staking Token + SAO RWEcosystems Co-ownership programmed on and powered by Solana
 
 
 ## 🌐 Socials
