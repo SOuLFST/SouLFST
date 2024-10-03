@@ -10,7 +10,7 @@
 🌐 https://soulsanctuary.cloud
 📧 gm@soulsanctuary.cloud
 
-![SOuL Sanctuary V2](https://github.com/user-attachments/assets/d777306e-1a42-4e8d-94ad-ffd6fdd42245)
+![SOuL PASS 1280 x 861](https://github.com/user-attachments/assets/51fbfda2-f8b3-411d-a2b6-892df1c4e02b)
 
 ## ▶️ Feature
 [![Solana Featured Video](https://github.com/user-attachments/assets/1279ca8d-fb88-4482-be33-5e804e2d9783)](https://www.youtube.com/embed/Yhh1WQllcoo?si=uv1JX3bRFUentWWd)
