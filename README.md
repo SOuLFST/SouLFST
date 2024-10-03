@@ -12,7 +12,7 @@ The impact associated with forest destruction is staggering—annually, it cause
 ![SOuL Logo](https://github.com/user-attachments/assets/bd8081b4-b67b-45e2-902f-c1bf33872645)
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SOuLFST) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jr0d3las/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@SOuLFST) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SOuLFST) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SOuLFST) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jr0d3las/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SOuLFST) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SOuLFST) 
 
 ## 🌐 Website
 🌐 https://soulsanctuary.cloud
