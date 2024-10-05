@@ -12,13 +12,12 @@ The impact associated with forest destruction is staggering—annually, it cause
 ![SOuL Logo](https://github.com/user-attachments/assets/bd8081b4-b67b-45e2-902f-c1bf33872645)
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SOuLFST) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jr0d3las/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SOuLFST) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SOuLFST) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SOuLFST) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jr0d3las/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SOuLFST) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SOuLFST) [![X](![SOuL PASS 1280 x 861](https://github.com/user-attachments/assets/51fbfda2-f8b3-411d-a2b6-892df1c4e02b))](https://discord.gg/BZ9WPfmU) 
 
 ## 🌐 Website
 🌐 https://soulsanctuary.cloud
 📧 gm@soulsanctuary.cloud
-
-![SOuL PASS 1280 x 861](https://github.com/user-attachments/assets/51fbfda2-f8b3-411d-a2b6-892df1c4e02b)
+https://img.icons8.com/?size=100&id=25627&format=png&color=000000
 
 ## ▶️ Feature
 [![Solana Featured Video](https://github.com/user-attachments/assets/1279ca8d-fb88-4482-be33-5e804e2d9783)](https://www.youtube.com/embed/Yhh1WQllcoo?si=uv1JX3bRFUentWWd)
