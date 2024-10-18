@@ -25,9 +25,9 @@ The impact associated with forest destruction is staggering—annually, it cause
 ## 🌐 Website
 🌐 https://soulsanctuary.cloud
 📧 gm@soulsanctuary.cloud
-https://img.icons8.com/?size=100&id=25627&format=png&color=000000
+🌐 https://discord.gg/sc3f4kT9
 
-![SOuL Character and UX](https://github.com/user-attachments/assets/5e18bfbe-c8d9-454f-89a1-35c6b942f576)
+![SOuL Character and UX](https://github.com/user-attachments/assets/c599de80-ccbf-4db2-bcf2-5b6a701332c7)
 
 ## ▶️ Feature
 [![Solana Featured Video](https://github.com/user-attachments/assets/1279ca8d-fb88-4482-be33-5e804e2d9783)](https://www.youtube.com/embed/Yhh1WQllcoo?si=uv1JX3bRFUentWWd)
