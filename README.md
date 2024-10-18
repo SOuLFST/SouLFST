@@ -1,13 +1,22 @@
 # 🌍 About SOuL
 💻 Watch your real-world forests grow anytime, anywhere by playing and mapping | Superteam 🇯🇵
 
+![8](https://github.com/user-attachments/assets/d22252e6-fbcb-4bed-a640-334a5125c922)
+
+
 SOuL is an innovative DEPIN startup that employs a quantum network of IoT + lEo devices suited for remote forest areas to intelligently grow forest RWEcosystems only possible in Solana. It can be played as a game and has DeFi elements such as staking, vesting, earning, and 100-of-fees profit for 100% distribution to co-owners as it is governed by fully decentralization model. SOuL allows collection, validation and analysis of accurate and big data on forests, climate, and natural disasters, aiming to safeguard the remaining 4.6 billion hectares of natural forests and establish 1 billion hectares of new SOuL Forests as well as empower 474 million impoverished farmers to earn directly, without intermediaries, ensuring they receive full profits. 
+
+![2](https://github.com/user-attachments/assets/35da237f-0c17-49db-bfc5-f5737860a0ad)
 
 By leveraging Solana, encouraging community involvement, and promoting decentralized forest management, SOuL supports sustainable co-ownership of forests, its physical products and services, and Liquid and Fluid Earning Tokens (LETs + FETs).
 
 Our mission is to build a network of SOuL Forest Empires, enabling upland and rural communities to turn barren and degraded land into thriving SOuL SocioEconomic Sanctuary in Real World Ecosystems (RWE). By growing food self-sufficiently, doubling their harvests, and securing their livelihoods, SOuL helps communities realize their dreams while protecting forests.
 
+![6](https://github.com/user-attachments/assets/c386612b-1145-4bcb-be5b-dd7f6eee4a37)
+
 The impact associated with forest destruction is staggering—annually, it causes $299 billion in damages, 5,000 deaths, $4 billion in flood-related losses, and $1.6 trillion in climate-related damages. SOuL is determined to say "NO MORE" to these destructive figures and "YES" to generating $1 billion in coffee and cacao, $759 billion in ecotourism, $261 billion in carbon credit, and $1.6 trillion in forestry industry annual earnings through regenerative forest growing and community empowerment.
+
+![4](https://github.com/user-attachments/assets/f3df8818-ea5b-4253-b862-9d0d5aabe5d0)
 
 ![SOuL Logo](https://github.com/user-attachments/assets/bd8081b4-b67b-45e2-902f-c1bf33872645)
 
