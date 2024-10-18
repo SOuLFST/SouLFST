@@ -18,7 +18,6 @@ The impact associated with forest destruction is staggering—annually, it cause
 
 ![4](https://github.com/user-attachments/assets/f3df8818-ea5b-4253-b862-9d0d5aabe5d0)
 
-![SOuL Logo](https://github.com/user-attachments/assets/bd8081b4-b67b-45e2-902f-c1bf33872645)
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/SOuLFST) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jr0d3las/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@SOuLFST) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SOuLFST) [![Discord](**https://github.com/user-attachments/assets/139f34dd-374c-4cc7-90ab-e7dffecd6758)](https://discord.gg/BZ9WPfmU) 
@@ -27,6 +26,8 @@ The impact associated with forest destruction is staggering—annually, it cause
 🌐 https://soulsanctuary.cloud
 📧 gm@soulsanctuary.cloud
 https://img.icons8.com/?size=100&id=25627&format=png&color=000000
+
+![SOuL Character and UX](https://github.com/user-attachments/assets/5e18bfbe-c8d9-454f-89a1-35c6b942f576)
 
 ## ▶️ Feature
 [![Solana Featured Video](https://github.com/user-attachments/assets/1279ca8d-fb88-4482-be33-5e804e2d9783)](https://www.youtube.com/embed/Yhh1WQllcoo?si=uv1JX3bRFUentWWd)
