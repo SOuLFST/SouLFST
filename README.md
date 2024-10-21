@@ -3,7 +3,9 @@
 
 ![8](https://github.com/user-attachments/assets/d22252e6-fbcb-4bed-a640-334a5125c922)
 
+![DePIN c1](https://github.com/user-attachments/assets/c22039d3-6257-4e76-9cb4-71e5bc796f03)
 
+![DePIN c2](https://github.com/user-attachments/assets/2472e24c-2309-4c90-aac8-1273e6ce1698)
 
 SOuL is an innovative DEPIN startup that employs a quantum network of IoT + lEo devices suited for remote forest areas to intelligently grow forest RWEcosystems only possible in Solana. It can be played as a game and has DeFi elements such as staking, vesting, earning, and 100-of-fees profit for 100% distribution to co-owners as it is governed by fully decentralization model. SOuL allows collection, validation and analysis of accurate and big data on forests, climate, and natural disasters, aiming to safeguard the remaining 4.6 billion hectares of natural forests and establish 1 billion hectares of new SOuL Forests as well as empower 474 million impoverished farmers to earn directly, without intermediaries, ensuring they receive full profits. 
 
